@@ -13,7 +13,7 @@ Sudoku Snapshot
 Prerequisites:
 -------------
 
-- Python 2.7 but __not__ Python 3
+- Python 2.7 (only)
     - Download from [here](https://www.python.org/downloads/)
 
 - OpenCV
@@ -28,7 +28,7 @@ How to use:
 ----------
     git clone https://github.com/Jaskirat1899/Sudoku-Snapshot.git
     cd SnapSudoku
-    python sudoku.py <path-to-input-image>
+    python2.7 sudoku.py <path-to-input-image>
 
 
 Working:
