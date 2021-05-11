@@ -26,7 +26,7 @@ Prerequisites:
 
 How to use: 
 ----------
-    git clone https://github.com/Jaskirat1899/SnapSudoku.git
+    git clone https://github.com/Jaskirat1899/Sudoku-Snapshot.git
     cd SnapSudoku
     python sudoku.py <path-to-input-image>
 
