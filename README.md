@@ -1,4 +1,4 @@
-SnapSudoku
+Sudoku Snapshot
 ===================
 
 *Take a picture of a Sudoku and have SnapSudoku solve it for you!*
